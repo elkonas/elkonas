@@ -1,4 +1,4 @@
-# <img width="168" height="55" alt="image" src="https://github.com/user-attachments/assets/fb9b263c-0aa0-4ca7-8507-9a8e16e9e9d9" />  ELKON
+# <img width="168" height="55" alt="image" src="https://github.com/user-attachments/assets/fb9b263c-0aa0-4ca7-8507-9a8e16e9e9d9" />
 
 **Lider beton santrali çözümleri sağlayıcısı — dünya çapında.**
 
@@ -17,8 +17,8 @@ Türkiye'nin en büyük beton sanayi ekipmanları üreticisi olarak, 6 kıtada v
 
 ## 💻 Bu organizasyon
 
-`elkonas`, Elkon bünyesindeki yazılım ekibinin iç sistemler (saha/filo takibi,
-API servisleri ve benzeri operasyonel araçlar) için geliştirdiği projelerin
+`elkonas`, Elkon bünyesindeki yazılım ekibinin iç sistemler 
+(erp API servisleri ve benzeri operasyonel araçlar) için geliştirdiği projelerin
 barındığı GitHub organizasyonudur.
 
 ## 📬 İletişim
