@@ -1,11 +1,10 @@
-# 🏗️ ELKON
+# <img width="168" height="55" alt="image" src="https://github.com/user-attachments/assets/fb9b263c-0aa0-4ca7-8507-9a8e16e9e9d9" />  ELKON
 
-**Lider beton bitirme çözümleri sağlayıcısı — dünya çapında.**
+**Lider beton santrali çözümleri sağlayıcısı — dünya çapında.**
 
 50 yılı aşkın tecrübeyle beton santralleri ve beton ekipmanları tasarlayıp üretiyoruz.
 Türkiye'nin en büyük beton sanayi ekipmanları üreticisi olarak, 6 kıtada ve
-onlarca ülkede LafargeHolcim, Cemex, Vinci ve Hyundai gibi küresel firmalarla
-çalışıyoruz.
+120 üzerinde ülkede küresel firmalarla çalışıyoruz.
 
 ## 🔧 Ne üretiyoruz
 
